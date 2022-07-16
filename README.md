@@ -105,6 +105,6 @@ You are required to submit BOTH of the following for review:
 
 * The URL of the GitHub repository, with a unique name and a README describing the project.
 
-Walkthrough Video: 
+Walkthrough Video: https://drive.google.com/file/d/1rjfSGzLW892vo9rX0KlTXQgqoKhokcLE/view 
 
 Git REPO:  https://github.com/mrsbefort/Employee-Tracker.git 
